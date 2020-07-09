@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Neil, and I'm a designer who's teaching himself to code. I've got my HTML and CSS down, now I'm learning JavaScript.
+
 <!--
 **neilkurien/neilkurien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
